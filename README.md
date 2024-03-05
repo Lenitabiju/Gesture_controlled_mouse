@@ -9,8 +9,8 @@ Intuitive Controls: The interface allows users to toggle mouse simulation, displ
 Cross-Platform Compatibility: Compatible with various operating systems supporting Python and OpenCV.
 
 ## Requirements
-Python 3.x
-OpenCV
-NumPy
-PyAutoGUI
+1. Python 3.x
+2. OpenCV
+3. NumPy
+4. PyAutoGUI
 
